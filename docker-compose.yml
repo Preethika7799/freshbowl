@@ -1,0 +1,10 @@
+version: '3'
+
+services: 
+    web:
+        build: .
+        command: python manage.py runserver 
+        ports:
+            - "8000:8000"
+    db:
+        image: sqlite3
