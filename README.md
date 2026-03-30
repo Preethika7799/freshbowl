@@ -110,6 +110,3 @@ freshbowl/
 ├── docker-compose.yml
 └── README.md
 ```
-
----
-**Built with ❤️ by [Preethika7799](https://github.com/Preethika7799)**
